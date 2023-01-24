@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BookBorrowApp</string>
+    <string name="text_title_intro1">به کتابکده خوش آمدید</string>
+    <string name="text_description_intro1">کتابکده این امکان را به شما می دهد که کتاب و جزوه نو و دست دوم خود را برای فروش به دیگران معرفی کنید
+        و همچنین کتاب و جزوه مورد نیاز خود را تهیه کنید </string>
+
+
+    <string name="text_title_intro2">خرید آنلاین</string>
+    <string name="text_description_intro2">شما می توانید کتاب مورد علاقه خود را از طریق کتابکده پیدا کنید</string>
+    <string name="text_title_intro3">فروش آنلاین</string>
+    <string name="text_description_intro3">شما می توانید کتاب نو،کتاب دست دوم و جزوه خود را به صورت آنلاین به فروش برسانید</string>
+
+
+    <string name="description_login">برای ثبت نام یا ورود شماره موبایل خود را وارد کنید</string>
+    <string name="description_login_password">لطفا رمز عبور خود را وارد کنید</string>
+    <string name="text_accept">با کلیه شرایط و قوانین کتابکده موافقت هستم.</string>
+    <string name="text_description_changePass">رمز عبور جدید را وارد کنید</string>
+    <string name="text_changePass">تغییر رمز عبور</string>
+</resources>
